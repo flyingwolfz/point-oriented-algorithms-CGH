@@ -1,4 +1,4 @@
-
+%https://github.com/flyingwolfz/point-oriented-algorithms-CGH
 clc
 clear
 gpu=1;%1:gpu,else cpu
